@@ -1,4 +1,4 @@
-# zdxlovedjx
+# This project origins from zdxlovedjx's open source project
 
 <div id="badges"> 
  <a href="https://github.com/sylvanding" target="_blank" rel="noopener noreferrer"> <img alt="author" src="https://img.shields.io/badge/author-Sylvan_Ding-success?logo=github"> </a> 
@@ -13,9 +13,7 @@ I made this homepage for my girlfriend, in purpose of recording some memorizable
 
 ## Demo
 
-[Click here to review the website!](https://sylvanding.github.io/zdxlovedjx) ❤️
-
-[https://sylvanding.github.io/zdxlovedjx](https://sylvanding.github.io/zdxlovedjx)
+[Click here to review the website!](https://郭齐.我爱你) ❤️
 
 ## Features
 
@@ -83,9 +81,6 @@ Finally, at the end of the homepage, it allows you to put photos and related sto
 
 This template is designed by [Creative Tim](https://www.creative-tim.com). You can find more information in [Soft UI Design System Pro](https://themes.getbootstrap.com/product/soft-ui-design-system-pro/)
 
-## My CSDN
-
-❤️ Here is my CSDN blog! [https://blog.csdn.net/IYXUAN](https://blog.csdn.net/IYXUAN)
 
 ---
 
